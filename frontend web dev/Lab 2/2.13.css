@@ -1,0 +1,31 @@
+
+
+.block1{
+    background-color: aqua;
+    border: 2px solid forestgreen;
+}
+
+
+.block2{
+    float: left;
+    background-color: bisque;
+    width: 25%;
+    height: 100px;
+}
+
+
+.tx{
+    display: inline-block;
+    background-color: darkgray;
+    width: 75%; 
+}
+
+img{
+    float:right;
+    width: 50%;
+}
+
+.clear
+{
+    clear: both;
+}

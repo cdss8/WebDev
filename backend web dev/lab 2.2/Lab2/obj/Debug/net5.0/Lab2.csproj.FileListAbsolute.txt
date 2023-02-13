@@ -1,0 +1,80 @@
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\bin\Debug\net5.0\appsettings.json
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\bin\Debug\net5.0\Lab2.exe
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\bin\Debug\net5.0\Lab2.deps.json
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\bin\Debug\net5.0\Lab2.runtimeconfig.json
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\bin\Debug\net5.0\Lab2.runtimeconfig.dev.json
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\bin\Debug\net5.0\Lab2.dll
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\bin\Debug\net5.0\ref\Lab2.dll
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\bin\Debug\net5.0\Lab2.pdb
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\bin\Debug\net5.0\Lab2.Views.dll
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\bin\Debug\net5.0\Lab2.Views.pdb
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.csproj.AssemblyReference.cache
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfoInputs.cache
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfo.cs
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.RazorAssemblyInfo.cache
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.RazorAssemblyInfo.cs
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\staticwebassets\Lab2.StaticWebAssets.Manifest.cache
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\staticwebassets\Lab2.StaticWebAssets.xml
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\scopedcss\bundle\Lab2.styles.css
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.TagHelpers.input.cache
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.TagHelpers.output.cache
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.RazorCoreGenerate.cache
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Razor\Views\Calc\Index.cshtml.g.cs
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Razor\Views\Calc\Result.cshtml.g.cs
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Razor\Views\Calc\ViewWithHtmlHelpers.cshtml.g.cs
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Razor\Views\Calc\ViewWithTagHelpers.cshtml.g.cs
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.RazorTargetAssemblyInfo.cache
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.RazorTargetAssemblyInfo.cs
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.Views.pdb
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.dll
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\ref\Lab2.dll
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.pdb
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.genruntimeconfig.cache
+C:\Users\katte\katt\3 курс\back end\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.csproj.CopyComplete
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\bin\Debug\net5.0\appsettings.Development.json
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\bin\Debug\net5.0\appsettings.json
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\bin\Debug\net5.0\Lab2.StaticWebAssets.xml
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\bin\Debug\net5.0\Lab2.exe
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\bin\Debug\net5.0\Lab2.deps.json
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\bin\Debug\net5.0\Lab2.runtimeconfig.json
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\bin\Debug\net5.0\Lab2.runtimeconfig.dev.json
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\bin\Debug\net5.0\Lab2.dll
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\bin\Debug\net5.0\Lab2.pdb
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\bin\Debug\net5.0\Lab2.Views.dll
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\bin\Debug\net5.0\Lab2.Views.pdb
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\obj\Debug\net5.0\Lab2.csproj.AssemblyReference.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\obj\Debug\net5.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfoInputs.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfo.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\obj\Debug\net5.0\Lab2.csproj.CoreCompileInputs.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\obj\Debug\net5.0\Lab2.MvcApplicationPartsAssemblyInfo.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\obj\Debug\net5.0\Lab2.RazorAssemblyInfo.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\obj\Debug\net5.0\Lab2.RazorAssemblyInfo.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\obj\Debug\net5.0\scopedcss\bundle\Lab2.styles.css
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\obj\Debug\net5.0\staticwebassets\Lab2.StaticWebAssets.Manifest.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\obj\Debug\net5.0\Lab2.TagHelpers.input.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\obj\Debug\net5.0\Lab2.TagHelpers.output.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\obj\Debug\net5.0\Lab2.RazorCoreGenerate.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\obj\Debug\net5.0\Razor\Views\Calc\Index.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\obj\Debug\net5.0\Razor\Views\Calc\Result.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\obj\Debug\net5.0\Razor\Views\Calc\ViewWithHtmlHelpers.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\obj\Debug\net5.0\Razor\Views\Calc\ViewWithTagHelpers.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\obj\Debug\net5.0\Lab2.RazorTargetAssemblyInfo.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\obj\Debug\net5.0\Lab2.RazorTargetAssemblyInfo.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\obj\Debug\net5.0\Lab2.Views.pdb
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\obj\Debug\net5.0\Lab2.dll
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\obj\Debug\net5.0\refint\Lab2.dll
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\obj\Debug\net5.0\Lab2.pdb
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\obj\Debug\net5.0\Lab2.genruntimeconfig.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\obj\Debug\net5.0\ref\Lab2.dll
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko.ekaterina_lab2-main\931901.eremenko.ekaterina_lab2-main\Lab2\obj\Debug\net5.0\Lab2.csproj.CopyComplete

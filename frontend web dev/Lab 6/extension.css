@@ -1,0 +1,47 @@
+html{
+    font-family:sans-serif;
+
+}
+
+body{
+    margin:0;
+}
+
+.Block{
+    margin: 0 auto;
+    width: 900px;
+}
+ 
+.Boton{
+    display:table-cell;
+    text-align:center;
+    font-size: 20px;
+    padding: 10px;
+    background-color:red;
+    color: white;
+    margin: 0;
+    width: 296px;
+    border: 2px solid black;
+}
+  
+#left{
+    float:left;
+    background-color:blue;
+    width:450px;
+    height:500px;
+    margin:0;
+}
+
+#right{
+    float:right;
+    background-color:green;
+    margin:0;
+    width:450px;
+    height:500px;
+}
+  
+img{
+    margin:20px;
+    max-width:90%;
+    min-height: 70%;
+  }

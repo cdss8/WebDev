@@ -1,0 +1,109 @@
+body{
+    margin:0;
+    background-color: black;
+    
+}
+.curtain{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: url(1.jpg) no-repeat;		
+	background-size:1920px 1080px;
+	background-position: bottom center;
+	
+	transition: transform 0.2s ease-in;	
+}
+
+.curtain:hover {
+	transform: translate(0, -5%);	
+}
+
+.magic{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.lamp{
+    height:320px;
+    width: auto;
+    position: absolute;
+    top:53px;
+    left: 840px;
+    
+}
+
+.lamprode1 {
+	position: absolute;
+	top:120px;
+    left: 982px;
+	width: 1px;
+	
+	height: 75px;
+	background: lightgray;
+	
+	transition: transform 0.5s ease-in;
+}
+
+.lamprode2 {
+	position: absolute;
+	top: 195px;
+    left: 980px;
+	width: 6px;
+	height: 6px;
+	border-radius: 50%;
+	background: gold;
+	
+	transition: transform 0.5s ease-in;
+}
+
+.light{
+    display: none;
+    position: absolute;
+    top:100px;
+    left: 675px;
+    
+    border-bottom: 800px solid gold;
+	border-left: 300px solid transparent;
+	border-right: 300px solid transparent;
+	height: 0;
+	width: 50px;
+    opacity: 0.5;
+    pointer-events: none;
+}
+
+.magic >#witch{
+    display: none;
+    position: absolute;
+    height:280px;
+    width: auto;
+    bottom: 90px;
+    left: 720px;
+}
+
+.magic > #hat{
+    display: none;
+    height:110px;
+    width: auto;
+    position: absolute;
+    bottom: 160px;
+    left: 1050px;
+}
+
+.magic > #dove{
+    display: none;
+    height:60px;
+    width: auto;
+    position: absolute;
+    bottom: 160px;
+    left: 1100px;
+    
+}
+.magic > #bunny{
+    display: none;
+    height:60px;
+    width: auto;
+    position: absolute;
+    bottom: 290px;
+    left: 1100px;
+    
+}

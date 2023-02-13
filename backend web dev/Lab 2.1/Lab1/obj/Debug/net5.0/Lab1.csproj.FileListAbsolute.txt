@@ -1,0 +1,82 @@
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\bin\Debug\net5.0\appsettings.json
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\bin\Debug\net5.0\Lab1.exe
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\bin\Debug\net5.0\Lab1.deps.json
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.json
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.dev.json
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\bin\Debug\net5.0\Lab1.dll
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\bin\Debug\net5.0\ref\Lab1.dll
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\bin\Debug\net5.0\Lab1.pdb
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\bin\Debug\net5.0\Lab1.Views.dll
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\bin\Debug\net5.0\Lab1.Views.pdb
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.csproj.AssemblyReference.cache
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfo.cs
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.RazorAssemblyInfo.cache
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.RazorAssemblyInfo.cs
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\staticwebassets\Lab1.StaticWebAssets.Manifest.cache
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\staticwebassets\Lab1.StaticWebAssets.xml
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\scopedcss\bundle\Lab1.styles.css
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.TagHelpers.input.cache
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.TagHelpers.output.cache
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.RazorCoreGenerate.cache
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\AccessServiceDirectly.cshtml.g.cs
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\Index.cshtml.g.cs
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingModel.cshtml.g.cs
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingViewBag.cshtml.g.cs
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingViewData.cshtml.g.cs
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.RazorTargetAssemblyInfo.cache
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.RazorTargetAssemblyInfo.cs
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.Views.pdb
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.dll
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\ref\Lab1.dll
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.pdb
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.genruntimeconfig.cache
+C:\Users\katte\katt\3 курс\back end\Lab 2.1\Web1\Lab1\obj\Debug\net5.0\Lab1.csproj.CopyComplete
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\bin\Debug\net5.0\appsettings.Development.json
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\bin\Debug\net5.0\appsettings.json
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\bin\Debug\net5.0\Lab1.StaticWebAssets.xml
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\bin\Debug\net5.0\Lab1.exe
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\bin\Debug\net5.0\Lab1.deps.json
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.json
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.dev.json
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\bin\Debug\net5.0\Lab1.dll
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\bin\Debug\net5.0\Lab1.pdb
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\bin\Debug\net5.0\Lab1.Views.dll
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\bin\Debug\net5.0\Lab1.Views.pdb
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\obj\Debug\net5.0\Lab1.csproj.AssemblyReference.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\obj\Debug\net5.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfoInputs.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfo.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\obj\Debug\net5.0\Lab1.csproj.CoreCompileInputs.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\obj\Debug\net5.0\Lab1.MvcApplicationPartsAssemblyInfo.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\obj\Debug\net5.0\Lab1.RazorAssemblyInfo.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\obj\Debug\net5.0\Lab1.RazorAssemblyInfo.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\obj\Debug\net5.0\scopedcss\bundle\Lab1.styles.css
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\obj\Debug\net5.0\staticwebassets\Lab1.StaticWebAssets.Manifest.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\obj\Debug\net5.0\Lab1.TagHelpers.input.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\obj\Debug\net5.0\Lab1.TagHelpers.output.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\obj\Debug\net5.0\Lab1.RazorCoreGenerate.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\AccessServiceDirectly.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\Index.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingModel.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingViewBag.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingViewData.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\obj\Debug\net5.0\Lab1.RazorTargetAssemblyInfo.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\obj\Debug\net5.0\Lab1.RazorTargetAssemblyInfo.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\obj\Debug\net5.0\Lab1.Views.pdb
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\obj\Debug\net5.0\Lab1.dll
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\obj\Debug\net5.0\refint\Lab1.dll
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\obj\Debug\net5.0\Lab1.pdb
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\obj\Debug\net5.0\Lab1.genruntimeconfig.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\obj\Debug\net5.0\ref\Lab1.dll
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\Lab 2.1\Lab 2.1.Sialo.931904\Lab1\obj\Debug\net5.0\Lab1.csproj.CopyComplete

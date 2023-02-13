@@ -1,0 +1,112 @@
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\bin\Debug\net5.0\appsettings.json
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\bin\Debug\net5.0\Backend4.exe
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\bin\Debug\net5.0\Backend4.deps.json
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\bin\Debug\net5.0\Backend4.runtimeconfig.json
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\bin\Debug\net5.0\Backend4.runtimeconfig.dev.json
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\bin\Debug\net5.0\Backend4.dll
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\bin\Debug\net5.0\ref\Backend4.dll
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\bin\Debug\net5.0\Backend4.pdb
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\bin\Debug\net5.0\Backend4.Views.dll
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\bin\Debug\net5.0\Backend4.Views.pdb
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Backend4.csproj.AssemblyReference.cache
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Backend4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Backend4.AssemblyInfoInputs.cache
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Backend4.AssemblyInfo.cs
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Backend4.csproj.CoreCompileInputs.cache
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Backend4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Backend4.RazorAssemblyInfo.cache
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Backend4.RazorAssemblyInfo.cs
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\staticwebassets\Backend4.StaticWebAssets.Manifest.cache
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\staticwebassets\Backend4.StaticWebAssets.xml
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\scopedcss\bundle\Backend4.styles.css
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Backend4.TagHelpers.input.cache
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Backend4.TagHelpers.output.cache
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Backend4.RazorCoreGenerate.cache
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Controls\CheckBox.cshtml.g.cs
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Controls\DropDownList.cshtml.g.cs
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Controls\Index.cshtml.g.cs
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Controls\List.cshtml.g.cs
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Controls\Radio.cshtml.g.cs
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Controls\Result.cshtml.g.cs
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Controls\TextArea.cshtml.g.cs
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Controls\TextBox.cshtml.g.cs
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Index.cshtml.g.cs
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Reset.cshtml.g.cs
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Reset2.cshtml.g.cs
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Reset3.cshtml.g.cs
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Result.cshtml.g.cs
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Result2.cshtml.g.cs
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\SignUp.cshtml.g.cs
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\SignUp2.cshtml.g.cs
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Backend4.RazorTargetAssemblyInfo.cache
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Backend4.RazorTargetAssemblyInfo.cs
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Backend4.Views.pdb
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Backend4.dll
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\ref\Backend4.dll
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Backend4.pdb
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Backend4.genruntimeconfig.cache
+C:\Users\katte\Downloads\931802.kozyreva.ann.lab4-master\Backend4\obj\Debug\net5.0\Backend4.csproj.CopyComplete
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\bin\Debug\net5.0\appsettings.Development.json
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\bin\Debug\net5.0\appsettings.json
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\bin\Debug\net5.0\Backend4.StaticWebAssets.xml
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\bin\Debug\net5.0\Backend4.exe
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\bin\Debug\net5.0\Backend4.deps.json
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\bin\Debug\net5.0\Backend4.runtimeconfig.json
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\bin\Debug\net5.0\Backend4.runtimeconfig.dev.json
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\bin\Debug\net5.0\Backend4.dll
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\bin\Debug\net5.0\Backend4.pdb
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\bin\Debug\net5.0\Backend4.Views.dll
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\bin\Debug\net5.0\Backend4.Views.pdb
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Backend4.csproj.AssemblyReference.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Backend4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Backend4.AssemblyInfoInputs.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Backend4.AssemblyInfo.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Backend4.csproj.CoreCompileInputs.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Backend4.MvcApplicationPartsAssemblyInfo.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Backend4.RazorAssemblyInfo.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Backend4.RazorAssemblyInfo.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\scopedcss\bundle\Backend4.styles.css
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\staticwebassets\Backend4.StaticWebAssets.Manifest.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Backend4.TagHelpers.input.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Backend4.TagHelpers.output.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Backend4.RazorCoreGenerate.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Razor\Views\Controls\CheckBox.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Razor\Views\Controls\DropDownList.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Razor\Views\Controls\Index.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Razor\Views\Controls\List.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Razor\Views\Controls\Radio.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Razor\Views\Controls\Result.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Razor\Views\Controls\TextArea.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Razor\Views\Controls\TextBox.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Index.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Reset.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Reset2.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Reset3.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Result.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Result2.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\SignUp.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\SignUp2.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Backend4.RazorTargetAssemblyInfo.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Backend4.RazorTargetAssemblyInfo.cs
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Backend4.Views.pdb
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Backend4.dll
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\refint\Backend4.dll
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Backend4.pdb
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Backend4.genruntimeconfig.cache
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\ref\Backend4.dll
+E:\Universidad\I+D\МатематческоеОбеспечение и А.И.С\6 cемак\Web Технологии 2.0\ERM\931901.eremenko_web4-main\931901.eremenko_web4-main\Backend4\obj\Debug\net5.0\Backend4.csproj.CopyComplete

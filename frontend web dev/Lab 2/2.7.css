@@ -1,0 +1,54 @@
+
+.fig1{
+    position: static;
+    background-color: blueviolet;
+    color: white;
+    width: 200px;
+    height: 150px;
+}
+
+.fig2{
+    position: relative;
+    background-color: darkred;
+    color: white;
+    width: 200px;
+    height: 150px;
+}
+
+.fig3{
+    position: relative;
+    background-color: peru;
+    color: white;
+    left: 30px;
+    bottom: 30px;
+    width: 200px;
+    height: 150px;
+}
+
+.fig4{
+    position: relative;
+    background-color: indianred;
+    color: white;
+    width: 600px;
+    height: 400px;
+}
+
+.fig5{
+    position: absolute;
+    background-color: indigo;
+    color: white;
+    width: 350px;
+    height: 200px;
+    right: 0%;
+    top: 100px;
+}
+
+.fig6{
+    position: fixed;
+    background-color: limegreen;
+    color:white;
+    width: 100px;
+    height: 100px;
+    right: 1%;
+    bottom: 1%;
+}
